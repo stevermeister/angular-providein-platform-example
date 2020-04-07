@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "providein-platform"
+    }
+  },
+  "defaultProject": "providein-platform",
+  "cli": {
+    "analytics": false
+  }
 }
